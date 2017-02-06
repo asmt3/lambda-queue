@@ -1,6 +1,6 @@
 {
   "name": "lambda-queue",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Queues and rate limits lambda calls",
   "main": "index.js",
   "scripts": {
