@@ -18,6 +18,7 @@
   "homepage": "https://github.com/asmt3/lambda-queue#readme",
   "dependencies": {
     "aws-sdk": "^2.3.15",
+    "deferred": "^0.7.5",
     "queue": "^4.2.1"
   }
 }
