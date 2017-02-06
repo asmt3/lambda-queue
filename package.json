@@ -1,6 +1,6 @@
 {
   "name": "lambda-queue",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Queues and rate limits lambda calls",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/asmt3/lambda-queue.git"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/asmt3/lambda-queue/issues"
   },
