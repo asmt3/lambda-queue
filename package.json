@@ -1,6 +1,6 @@
 {
   "name": "lambda-queue",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Queues and rate limits lambda calls",
   "main": "index.js",
   "scripts": {
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/asmt3/lambda-queue#readme",
   "dependencies": {
+    "aws-sdk": "^2.3.15",
     "queue": "^4.2.1"
   }
 }

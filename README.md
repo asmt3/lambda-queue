@@ -2,7 +2,7 @@ LambdaQueue
 ===
 
 ## What
-This 
+The LambdaQueue package lets you supply a list of JSON payloads to an AWS Lambda function, managing concurrency so that you do not exceed AWS rate limits.
 
 ## Install
 `npm install lambda-queue`
