@@ -48,7 +48,7 @@ The LambdaQueue package lets you supply a list of JSON payloads to an AWS Lambda
 	```
 
 ## License
-Copyright © 2017 Jesse Tane <as.thomson@gmail.com>
+Copyright © 2017 Alan Thomson <as.thomson@gmail.com>
 
 This work is free. You can redistribute it and/or modify it under the
 terms of the [MIT License](https://opensource.org/licenses/MIT).
