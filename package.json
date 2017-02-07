@@ -1,6 +1,6 @@
 {
   "name": "lambda-queue",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "Make batch requests to AWS Lambda without exceeding AWS concurrency limits",
   "main": "index.js",
   "scripts": {
