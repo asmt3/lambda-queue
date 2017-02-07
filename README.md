@@ -2,14 +2,15 @@ LambdaQueue
 ===
 
 ## What
-The LambdaQueue package lets you supply a list of JSON payloads to an AWS Lambda function, managing concurrency so that you do not exceed AWS rate limits.
+This package lets you supply a list of JSON payloads to an AWS Lambda function, managing concurrency so that you do not exceed AWS rate limits.
 
 ## Install
 `npm install lambda-queue`
 
 ## Example
 
-1. Create an AWS credentials file and save as ```aws.json```
+1. Create an AWS credentials file and save as ```aws.json```. eg.
+	
 	```
 	{ 
 	    "accessKeyId": "***", 
@@ -19,7 +20,7 @@ The LambdaQueue package lets you supply a list of JSON payloads to an AWS Lambda
 	```
 2. Create a set of JSON payloads for your lambda function and save as an array of objects in ```payloads.json```
 
-3. In your index.js, write the following
+3. Use the package as follows:
 
 	```
 	var LambdaQueue = require('lambda-queue');
